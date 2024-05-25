@@ -1,0 +1,34 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: f13b52ba-913f-432f-b753-586c5b30213d
+  title: Example Jupyter-lite Site
+  jupyter:
+    lite: true
+  # description:
+  keywords: []
+  authors:
+    - name: Georgios Varnavides
+      corresponding: true
+      email: gvarnavides@berkeley.edu
+      orcid: 0000-0001-8338-3323
+      affiliations:
+        - id: miller
+          department: Miller Institute for Basic Research in Science
+          institution: University of California, Berkeley
+          address: 468 Donner Lab, Berkeley, CA, USA, 94720
+  open_access: true 
+  github: https://github.com/gvarnavi/mystmd-jupyter-lite-example
+  # github:
+  # bibliography: []
+site:
+  template: book-theme
+  # title:
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
+  nav: []
+  actions:
+    - title: Learn More
+      url: https://mystmd.org/guide
+  domains: []
