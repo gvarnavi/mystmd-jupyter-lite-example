@@ -19,8 +19,7 @@ project:
           address: 468 Donner Lab, Berkeley, CA, USA, 94720
   open_access: true 
   github: https://github.com/gvarnavi/mystmd-jupyter-lite-example
-  # github:
-  # bibliography: []
+    
 site:
   template: book-theme
   # title:
